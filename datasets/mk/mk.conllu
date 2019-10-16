@@ -1,13 +1,13 @@
 # sent_id = set-s1979
 # text = Судските процеси против осомничените се очекува да започнат во средината од септември.
-1	Судските	суд	ADJ	_	Definite=Def|Degree=Pos|Distance=Dist|Gender=Masc|Number=Plur	_	_	_	_
+1	Судските	судски	ADJ	_	Definite=Def|Degree=Pos|Distance=Dist|Gender=Masc|Number=Plur	_	_	_	_
 2	процеси	процес	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	_	_	_	_
 3	против	против	ADP	_	Type=Prep	_	_	_	_
-4	осомничените	сомнева	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	_	_	_	_
-5	се	сум	AUX	_	Gender=Neut|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|Voice=Act	_	_	_	_
-6	очекува	чека	VERB	_	Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|Voice=Pass	_	_	_	_
+4	осомничените	осомничен	ADJ	_	Definite=Def|Degree=Pos|Distance=Dist|Gender=Masc|Number=Plur	_	_	_	_
+5	се	се	SCONJ
+6	очекува	очекува	VERB	_	Aspect=Prog[Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|Voice=Pass	_	_	_	_
 7	да	да	PART	_	_	_	_	_	_
-8	започнат	почне	VERB	_	Aspect=Prog|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|Voice=Act	_	_	_	_
+8	започнат	започне	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|Voice=Act	_	_	_	_
 9	во	во	ADP	_	Type=Prep	_	_	_	_
 10	средината	средина	NOUN	_	Case=Nom|Definite=Def|Distance=Dist|Gender=Fem|Number=Sing	_	_	_	_
 11	од	од	ADP	_	Type=Prep	_	_	_	_
@@ -16,7 +16,7 @@
 
 # sent_id = set-s3669
 # text = Но, во РС Министерството за трговија тврди дека сé уште нема добиено никакво официјално известување од Сараево и дека за оваа идеја знае само од медиумите.
-1	Но	но	CCONJ	_	_	_	_	_	SpaceAfter=No
+1	Но	но	PART	_	_	_	_	_
 2	,	,	PUNCT	_	_	_	_	_	_
 3	во	во	ADP	_	Type=Prep	_	_	_	_
 4	РС	РС	PROPN	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	_
@@ -28,10 +28,10 @@
 10	сé	сé	ADV	_	Degree=Ela	_	_	_	_
 11	уште	уште	ADV	_	Degree=Ela	_	_	_	_
 12	нема	нема	VERB	_	Gender=Neut|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|Voice=Act	_	_	_	_
-13	добиено	добие	VERB	_	Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|Voice=Passive	_	_	_	_
+13	добиено	добиен	VERB	_	ADJ	_	Definite=Def|Degree=Pos|Distance=Dist|Gender=Neut|Number=Plur	_	_	_	_
 14	никакво	никакво	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
 15	официјално	официјален	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
-16	известување	известува	NOUN	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	_	_	_	_
+16	известување	известување	NOUN	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	_	_	_	_
 17	од	од	ADP	_	Type=Prep	_	_	_	_
 18	Сараево	Сараево	PROPN	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	_	_	_	_
 19	и	и	CCONJ	_	_	_	_	_	_
