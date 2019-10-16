@@ -1,13 +1,13 @@
 # sent_id = set-s1979
 # text = Судските процеси против осомничените се очекува да започнат во средината од септември.
-1	Судските	суд	ADJ	_	Definite=Def|Degree=Pos|Distance=Dist|Gender=Masc|Number=Plur	_	_	_	_
+1	Судските	судски	ADJ	_	Definite=Def|Degree=Pos|Distance=Dist|Gender=Masc|Number=Plur	_	_	_	_
 2	процеси	процес	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	_	_	_	_
 3	против	против	ADP	_	Type=Prep	_	_	_	_
-4	осомничените	сомнева	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	_	_	_	_
-5	се	сум	AUX	_	Gender=Neut|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|Voice=Act	_	_	_	_
-6	очекува	чека	VERB	_	Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|Voice=Pass	_	_	_	_
-7	да	да	PART	_	_	_	_	_	_
-8	започнат	почне	VERB	_	Aspect=Prog|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|Voice=Act	_	_	_	_
+4	осомничените	осомничен	ADJ	_	Definite=Def|Degree=Pos|Distance=Dist|Gender=Masc|Number=Plur	_	_	_	_
+5	се	се	PRON	_	_	_	_	_
+6	очекува	очекува	VERB	_	Aspect=Prog[Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|Voice=Pass	_	_	_	_
+7	да	да		SCONJ_	_	_	_	_	_
+8	започнат	започне	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|Voice=Act	_	_	_	_
 9	во	во	ADP	_	Type=Prep	_	_	_	_
 10	средината	средина	NOUN	_	Case=Nom|Definite=Def|Distance=Dist|Gender=Fem|Number=Sing	_	_	_	_
 11	од	од	ADP	_	Type=Prep	_	_	_	_
